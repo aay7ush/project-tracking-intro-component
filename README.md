@@ -12,7 +12,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Project tracking intro component](https://t1me-tracking-dashboard.netlify.app/)
+- Live Site URL: [Project tracking intro component](https://project-tracking-comp0nent.netlify.app/)
 
 ## Built with
 
